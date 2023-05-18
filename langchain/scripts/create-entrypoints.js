@@ -66,6 +66,7 @@ const entrypoints = {
   "vectorstores/redis": "vectorstores/redis",
   "vectorstores/singlestore": "vectorstores/singlestore",
   "vectorstores/tigris": "vectorstores/tigris",
+  "vectorstores/typesense": "vectorstores/typesense",
   // text_splitter
   text_splitter: "text_splitter",
   // memory
@@ -201,6 +202,7 @@ const requiresOptionalDependency = [
   "vectorstores/redis",
   "vectorstores/singlestore",
   "vectorstores/tigris",
+  "vectorstores/typesense",
   "memory/zep",
   "document_loaders/web/apify_dataset",
   "document_loaders/web/cheerio",
