@@ -479,6 +479,7 @@
     "ts-jest": "^29.1.0",
     "typeorm": "^0.3.12",
     "typescript": "^5.0.0",
+    "typesense": "1.5.3",
     "weaviate-ts-client": "^1.0.0"
   },
   "peerDependencies": {
@@ -666,7 +667,7 @@
     "typeorm": {
       "optional": true
     },
-    "typsense": {
+    "typesense": {
       "optional": true
     },
     "weaviate-ts-client": {
