@@ -976,6 +976,11 @@
       "import": "./vectorstores/tigris.js",
       "require": "./vectorstores/tigris.cjs"
     },
+    "./vectorstores/typesense": {
+      "types": "./vectorstores/typesense.d.ts",
+      "import": "./vectorstores/typesense.js",
+      "require": "./vectorstores/typesense.cjs"
+    },
     "./text_splitter": {
       "types": "./text_splitter.d.ts",
       "import": "./text_splitter.js",
